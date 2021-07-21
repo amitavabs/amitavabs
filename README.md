@@ -4,9 +4,6 @@ Hi, I’m Amitava Bose
      It also validates the Suduko puzzle to confirm it can be solved.
      
 
-- 📫 You may contact me at amitavabs@yahoo,com
+- 📫 You may contact me at amitavabs@yahoo.com
 
-<!---
-amitavabs/amitavabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
